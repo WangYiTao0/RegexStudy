@@ -1,0 +1,16 @@
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\bin\Debug\net5.0\RegexStudy.exe
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\bin\Debug\net5.0\RegexStudy.deps.json
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\bin\Debug\net5.0\RegexStudy.runtimeconfig.json
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\bin\Debug\net5.0\RegexStudy.runtimeconfig.dev.json
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\bin\Debug\net5.0\RegexStudy.dll
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\bin\Debug\net5.0\ref\RegexStudy.dll
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\bin\Debug\net5.0\RegexStudy.pdb
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\obj\Debug\net5.0\RegexStudy.csprojAssemblyReference.cache
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\obj\Debug\net5.0\RegexStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\obj\Debug\net5.0\RegexStudy.AssemblyInfoInputs.cache
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\obj\Debug\net5.0\RegexStudy.AssemblyInfo.cs
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\obj\Debug\net5.0\RegexStudy.csproj.CoreCompileInputs.cache
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\obj\Debug\net5.0\RegexStudy.dll
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\obj\Debug\net5.0\ref\RegexStudy.dll
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\obj\Debug\net5.0\RegexStudy.pdb
+D:\Wyt_Repo\C#\Regex\RegexStudy\RegexStudy\obj\Debug\net5.0\RegexStudy.genruntimeconfig.cache
